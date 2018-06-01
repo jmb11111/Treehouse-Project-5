@@ -101,3 +101,12 @@ b{
     cursor:pointer;
     height:1em;
 }
+#search{
+
+    margin-left: 15em;
+}
+.arrows{
+    position: relative;
+    cursor:pointer;
+    height:1em;
+}
